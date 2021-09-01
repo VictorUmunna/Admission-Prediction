@@ -22,7 +22,7 @@ The data contains the following features:
 * Whether the course is Researched based or not.
 
 ## Modeling
-* I scaled all the feature values to make them be in the same range for easy modelling.
-* **Linear Regression**, **Lasso Regression**, **Linear SVR**, ** Thiel San Regressor** , **Least Angle Reression**,  **Ridge Regressor**, **Elastic Net**, **Baysian Regressor** and **Random Forest Regression** models were all built.
+* I scaled all the values of the features to keep them be in the same range for easy modeling.
+* **Linear Regression**, **Lasso Regression**, **Linear SVR**, **Thiel San Regressor** , **Least Angle Reression**,  **Ridge Regressor**, **Elastic Net**, **Baysian Regressor** and **Random Forest Regression** models were all built.
 * **Mean Absolute Error (MAE)** and **Root mean squared error (RMSE)** were the metrics used to evaluate the performance of the model.
 * Linear Regression has the lowest MAE and RMSE, so it is the chosen model.
