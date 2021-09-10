@@ -16,10 +16,10 @@ The data was gotten from Kaggle https://www.kaggle.com/mohansacharya/graduate-ad
 ## Data Understanding
 The data contains the following features:
 * TOFEL and GRE scores
-* Univaersity Rating
-* CGPA
+* University Ratings
+* CGPA of applicant
 * Scores out of 5 for the Statement of Purpose (SOP) and Letter of Recommendation (LOR)
-* Whether the course is Researched based or not.
+* Whether the graduate course is Researched based or not.
 
 ## Modeling
 * I scaled all the values of the features to keep them be in the same range for easy model building
