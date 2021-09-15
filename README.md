@@ -23,6 +23,6 @@ The data contains the following features:
 
 ## Modeling
 * I scaled all the values of the features to keep them be in the same range for easy model building
-* **Linear Regression**, **Lasso Regression**, **Linear SVR**, **Thiel San Regressor** , **Least Angle Reression**,  **Ridge Regressor**, **Elastic Net**, **Bayesian Regressor** and **Random Forest Regression** models were all built.
+* **Linear Regression**, **Lasso Regression**, **Linear SVR**, **Thiel San Regressor** , **Least Angle Regression**,  **Ridge Regressor**, **Elastic Net**, **Bayesian Regressor** and **Random Forest Regression** models were all built.
 * **Mean Absolute Error (MAE)** and **Root mean squared error (RMSE)** were the metrics used to evaluate the performance of the model.
 * Linear Regression has the lowest MAE and RMSE, so it is the chosen model.
