@@ -26,3 +26,7 @@ The data contains the following features:
 * **Linear Regression**, **Lasso Regression**, **Linear SVR**, **Thiel San Regressor** , **Least Angle Regression**,  **Ridge Regression**, **Elastic Net**, **Bayesian Regressor** and **Random Forest Regression** models were all built.
 * **Mean Absolute Error (MAE)** and **Root mean squared error (RMSE)** were the metrics used to evaluate the performance of the model.
 * Linear Regression has the lowest MAE and RMSE, so it is the chosen model.
+
+## [Web Application](https://share.streamlit.io/victorumunna/admission-prediction/main/app.py)
+I built a web application using Streamlit and deployed it to Streamlit Cloud.
+The web app : [Admsission Prediction App](https://share.streamlit.io/victorumunna/admission-prediction/main/app.py)
