@@ -27,7 +27,7 @@ The data contains the following features:
 * **Mean Absolute Error (MAE)** and **Root mean squared error (RMSE)** were the metrics used to evaluate the performance of the model.
 * Linear Regression has the lowest MAE and RMSE, so it is the chosen model.
 
-## [Web Application](https://share.streamlit.io/victorumunna/admission-prediction/main/app.py)
+## [Web Application](https://github.com/VictorUmunna/Admission-Prediction/blob/main/app.py)
 I built a web application using Streamlit and deployed it to Streamlit Cloud.
 
 The web app : [Admsission Prediction App](https://share.streamlit.io/victorumunna/admission-prediction/main/app.py)
