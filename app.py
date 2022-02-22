@@ -24,8 +24,11 @@ def main():
     statement_of_purpose_score = st.text_input("Statement of Purpose Score","Type Here")
     letter_of_recommendation_score = st.text_input("Letter of Recommendation Score","Type Here")
     cgpa = st.text_input("CGPA","Type Here")
-    research = st.selectbox('Research? 1 = Yes , 0 = No',(1, 0,))
-    st.write('You selected:', research)
+    research = st.selectbox('Research?  1 = Yes , 0 = No',(1, 0,))
+    if research == 1:
+        st.write('You selected: Yes')
+    else:
+        st.write('You selected: No')
 
     ok = st.button("Predict Chance of Admission")
 
